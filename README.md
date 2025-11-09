@@ -15,10 +15,10 @@ It classifies resumes into various *job categories* (like Data Science, Web Deve
 ---
 
 ##  Technologies Used
-- *Python, **Pandas, **NumPy*  
-- *NLTK, **Regex*  
-- *Scikit-learn*  
-- *Matplotlib, **Seaborn*
+- Python, Pandas, NumPy  
+- NLTK, Regex  
+- Scikit-learn  
+- Matplotlib, Seaborn
 
 ---
 
